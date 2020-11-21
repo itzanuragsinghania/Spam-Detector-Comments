@@ -5,3 +5,10 @@ matplotlib>=1.4.3
 pandas>=0.19
 streamlit
 opencv-python
+opencv-python-headless==4.2.0.32
+joblib
+spacy
+spacy.lang.en.stop_words
+gensim.summarization
+string
+flask
