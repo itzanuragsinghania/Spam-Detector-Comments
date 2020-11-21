@@ -9,3 +9,4 @@ opencv-python-headless==4.2.0.32
 joblib
 spacy
 flask
+gensim==3.4.0
